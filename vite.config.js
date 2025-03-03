@@ -12,7 +12,10 @@ export default defineConfig({
   ],
    server: {
     proxy: {
-      "/api": "http://localhost:5000",
+      "/api": {
+          target: "https://server-dj-vue.vercel.app/",
+          changeOrigin: true
+      }
     },
   },
   resolve: {
