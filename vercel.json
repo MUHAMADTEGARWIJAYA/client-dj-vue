@@ -8,5 +8,11 @@
       "source": "/(.*)",
       "destination": "/index.html"
     }
+    
+  ],
+  
+  "redirects": [
+    { "source": "/", "destination": "/ps2", "permanent": true }
   ]
+
 }
