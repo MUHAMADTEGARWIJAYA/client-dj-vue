@@ -1,12 +1,12 @@
 {
-    "rewrites":[
-        {
-            "source": "/(.*)",
-            "destination": "/index.html"
-        },
-        {
-            "source": "/:path(.*)",
-            "destination": "https://server-dj-vue.vercel.app/:path "
-        }
-    ]
+  "rewrites": [
+    {
+      "source": "/:path*", 
+      "destination": "https://server-dj-vue.vercel.app/:path"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
 }
