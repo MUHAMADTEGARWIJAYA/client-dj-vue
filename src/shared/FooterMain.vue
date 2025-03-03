@@ -4,7 +4,7 @@
       <!-- Brand & Copyright -->
       <div>
         <h2 class="text-2xl font-bold text-green-600">DAJA</h2>
-        <p class="text-sm mt-2">&copy; 2025 DownloadAja. All rights reserved</p>
+        <p class="text-sm mt-2">&copy; 2025 DownloadAja. All rights reserved (muhamad tegar wijaya)</p>
       </div>
 
       <!-- Products -->
