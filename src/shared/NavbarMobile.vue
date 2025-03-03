@@ -1,6 +1,6 @@
 <template>
   <div
-    class="flex flex-col items-center p-6 bg-transparent rounded-xl fixed top-[550px] left-0 w-full z-50"
+    class="flex flex-col items-center p-6 bg-transparent rounded-xl fixed bottom-0 left-0 w-full z-50"
   >
     <div
       class="border border-gray-200/80 py-3 px-2 flex gap-2 shadow-lg rounded-xl bg-white/80 backdrop-blur-sm hover:shadow-xl transition-all duration-300"
