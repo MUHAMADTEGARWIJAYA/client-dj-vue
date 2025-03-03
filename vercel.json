@@ -1,8 +1,8 @@
 {
   "rewrites": [
     {
-      "source": "/:path*", 
-      "destination": "https://server-dj-vue.vercel.app/:path"
+      "source": "/api/:path*", 
+      "destination": "https://server-dj-vue.vercel.app/api/:path"
     },
     {
       "source": "/(.*)",
